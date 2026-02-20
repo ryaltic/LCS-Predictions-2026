@@ -1,0 +1,547 @@
+Year,Split,Team,Player
+2026,Winter,Cloud9,Thanatos
+2026,Winter,Cloud9,Blaber
+2026,Winter,Cloud9,APA
+2026,Winter,Cloud9,Zven
+2026,Winter,Cloud9,Vulcan
+2026,Winter,Team Liquid,Morgan
+2026,Winter,Team Liquid,Josedeodo
+2026,Winter,Team Liquid,Quid
+2026,Winter,Team Liquid,Yeon
+2026,Winter,Team Liquid,CoreJJ
+2026,Winter,Flyquest,Gakgos
+2026,Winter,Flyquest,Gryffin
+2026,Winter,Flyquest,Quad
+2026,Winter,Flyquest,Massu
+2026,Winter,Flyquest,Cryogen
+2026,Winter,Lyon,Dhokla
+2026,Winter,Lyon,Inspired
+2026,Winter,Lyon,Saint
+2026,Winter,Lyon,Berserker
+2026,Winter,Lyon,Isles
+2026,Winter,Shopify,Fudge
+2026,Winter,Shopify,Contractz
+2026,Winter,Shopify,Zinnie
+2026,Winter,Shopify,Bvoy
+2026,Winter,Shopify,Ceos
+2026,Winter,Sentinels,Impact
+2026,Winter,Sentinels,Hambak
+2026,Winter,Sentinels,Darkwings
+2026,Winter,Sentinels,Rahel
+2026,Winter,Sentinels,Huhi
+2026,Winter,Diguised,Castle
+2026,Winter,Diguised,Kryra
+2026,Winter,Diguised,Callme
+2026,Winter,Diguised,Sajed
+2026,Winter,Diguised,Lyonz
+2026,Winter,Diguised,Kisno
+2026,Winter,Dignitas,Photon
+2026,Winter,Dignitas,Exyu
+2026,Winter,Dignitas,Palafox
+2026,Winter,Dignitas,FBI
+2026,Winter,Dignitas,Ignar
+2026,Winter,Dignitas,Mobility
+2026,Winter,Dignitas,Breezy
+2025,Summer,Cloud9,Thanatos
+2025,Summer,Cloud9,Blaber
+2025,Summer,Cloud9,Loki
+2025,Summer,Cloud9,Zven
+2025,Summer,Cloud9,Vulcan
+2025,Summer,Team Liquid,Impact
+2025,Summer,Team Liquid,Yuuji
+2025,Summer,Team Liquid,APA
+2025,Summer,Team Liquid,Yeon
+2025,Summer,Team Liquid,CoreJJ
+2025,Summer,Flyquest,Bwipo
+2025,Summer,Flyquest,Gakgos
+2025,Summer,Flyquest,Inspired
+2025,Summer,Flyquest,Quad
+2025,Summer,Flyquest,Massu
+2025,Summer,Flyquest,Busio
+2025,Summer,100 Thieves,Sniper
+2025,Summer,100 Thieves,Dhokla
+2025,Summer,100 Thieves,River
+2025,Summer,100 Thieves,Quid
+2025,Summer,100 Thieves,FBI
+2025,Summer,100 Thieves,Eyla
+2025,Summer,Shopify,Fudge
+2025,Summer,Shopify,Contractz
+2025,Summer,Shopify,Palafox
+2025,Summer,Shopify,Bvoy
+2025,Summer,Shopify,Ceos
+2025,Summer,Lyon,Srtty
+2025,Summer,Lyon,Oddielan
+2025,Summer,Lyon,Saint
+2025,Summer,Lyon,Hena
+2025,Summer,Lyon,Lyonz
+2025,Summer,Lyon,Yayo
+2025,Summer,Diguised,Castle
+2025,Summer,Diguised,Exyu
+2025,Summer,Diguised,Darkwings
+2025,Summer,Diguised,Rahel
+2025,Summer,Diguised,Huhi
+2025,Summer,Dignitas,Photon
+2025,Summer,Dignitas,Sheiden
+2025,Summer,Dignitas,Keine
+2025,Summer,Dignitas,Tomo
+2025,Summer,Dignitas,Isles
+2025,Spring,Dignitas,Srtty
+2025,Spring,Dignitas,Sheiden
+2025,Spring,Dignitas,Keine
+2025,Spring,Dignitas,Tomo
+2025,Spring,Dignitas,Isles
+2025,Spring,100 Thieves,Sniper
+2025,Spring,100 Thieves,River
+2025,Spring,100 Thieves,Quid
+2025,Spring,100 Thieves,FBI
+2025,Spring,100 Thieves,Eyla
+2025,Spring,Team Liquid,Impact
+2025,Spring,Team Liquid,Umti
+2025,Spring,Team Liquid,Yuuji
+2025,Spring,Team Liquid,APA
+2025,Spring,Team Liquid,Yeon
+2025,Spring,Team Liquid,CoreJJ
+2025,Spring,Shopify,Fudge
+2025,Spring,Shopify,Contractz
+2025,Spring,Shopify,Palafox
+2025,Spring,Shopify,Bvoy
+2025,Spring,Shopify,Ceos
+2025,Spring,Cloud9,Thanatos
+2025,Spring,Cloud9,Blaber
+2025,Spring,Cloud9,Loki
+2025,Spring,Cloud9,Zven
+2025,Spring,Cloud9,Vulcan
+2025,Spring,Flyquest,Bwipo
+2025,Spring,Flyquest,Inspired
+2025,Spring,Flyquest,Quad
+2025,Spring,Flyquest,Massu
+2025,Spring,Flyquest,Busio
+2025,Spring,Lyon,Licorice
+2025,Spring,Lyon,Oddielan
+2025,Spring,Lyon,Saint
+2025,Spring,Lyon,Hena
+2025,Spring,Lyon,Lyonz
+2025,Spring,Diguised,Castle
+2025,Spring,Diguised,Exyu
+2025,Spring,Diguised,Abbedagge
+2025,Spring,Diguised,ScaryJerry
+2025,Spring,Diguised,Huhi
+2025,Winter,100 Thieves,Sniper
+2025,Winter,100 Thieves,River
+2025,Winter,100 Thieves,Quid
+2025,Winter,100 Thieves,FBI
+2025,Winter,100 Thieves,Eyla
+2025,Winter,Flyquest,Bwipo
+2025,Winter,Flyquest,Inspired
+2025,Winter,Flyquest,Quad
+2025,Winter,Flyquest,Massu
+2025,Winter,Flyquest,Busio
+2025,Winter,Cloud9,Thanatos
+2025,Winter,Cloud9,Blaber
+2025,Winter,Cloud9,Loki
+2025,Winter,Cloud9,Zven
+2025,Winter,Cloud9,Vulcan
+2025,Winter,Team Liquid,Impact
+2025,Winter,Team Liquid,Umti
+2025,Winter,Team Liquid,APA
+2025,Winter,Team Liquid,Yeon
+2025,Winter,Team Liquid,CoreJJ
+2025,Winter,Shopify,Fudge
+2025,Winter,Shopify,Contractz
+2025,Winter,Shopify,Palafox
+2025,Winter,Shopify,Bvoy
+2025,Winter,Shopify,Ceos
+2025,Winter,Dignitas,Srtty
+2025,Winter,Dignitas,Sheiden
+2025,Winter,Dignitas,Lira
+2025,Winter,Dignitas,Keine
+2025,Winter,Dignitas,Tomo
+2025,Winter,Dignitas,Isles
+2025,Winter,Lyon,Licorice
+2025,Winter,Lyon,Oddielan
+2025,Winter,Lyon,Saint
+2025,Winter,Lyon,Hena
+2025,Winter,Lyon,Lyonz
+2025,Winter,Diguised,Castle
+2025,Winter,Diguised,Exyu
+2025,Winter,Diguised,Abbedagge
+2025,Winter,Diguised,ScaryJerry
+2025,Winter,Diguised,Huhi
+2024,Summer,Flyquest,Bwipo
+2024,Summer,Flyquest,Inspired
+2024,Summer,Flyquest,Quad
+2024,Summer,Flyquest,Massu
+2024,Summer,Flyquest,Busio
+2024,Summer,Team Liquid,Impact
+2024,Summer,Team Liquid,Umti
+2024,Summer,Team Liquid,APA
+2024,Summer,Team Liquid,Yeon
+2024,Summer,Team Liquid,CoreJJ
+2024,Summer,100 Thieves,Sniper
+2024,Summer,100 Thieves,River
+2024,Summer,100 Thieves,Quid
+2024,Summer,100 Thieves,Tomo
+2024,Summer,100 Thieves,Meech
+2024,Summer,100 Thieves,Eyla
+2024,Summer,Dignitas,Licorice
+2024,Summer,Dignitas,Spica
+2024,Summer,Dignitas,Jensen
+2024,Summer,Dignitas,Zven
+2024,Summer,Dignitas,Isles
+2024,Summer,NRG,Dhokla
+2024,Summer,NRG,Contractz
+2024,Summer,NRG,Palafox
+2024,Summer,NRG,FBI
+2024,Summer,NRG,Huhi
+2024,Summer,Cloud9,Thanatos
+2024,Summer,Cloud9,Blaber
+2024,Summer,Cloud9,Jojopyun
+2024,Summer,Cloud9,Berserker
+2024,Summer,Cloud9,Vulcan
+2024,Summer,Shopify,FakeGod
+2024,Summer,Shopify,Bugi
+2024,Summer,Shopify,Insanity
+2024,Summer,Shopify,Bvoy
+2024,Summer,Shopify,Zeyzal
+2024,Summer,Shopify,Tomio
+2024,Summer,Immortals,Castle
+2024,Summer,Immortals,Armao
+2024,Summer,Immortals,Mask
+2024,Summer,Immortals,Tactical
+2024,Summer,Immortals,Olleh
+2024,Spring,Team Liquid,Impact
+2024,Spring,Team Liquid,Umti
+2024,Spring,Team Liquid,APA
+2024,Spring,Team Liquid,Yeon
+2024,Spring,Team Liquid,CoreJJ
+2024,Spring,Flyquest,Bwipo
+2024,Spring,Flyquest,Inspired
+2024,Spring,Flyquest,Jensen
+2024,Spring,Flyquest,Massu
+2024,Spring,Flyquest,Busio
+2024,Spring,NRG,Dhokla
+2024,Spring,NRG,Contractz
+2024,Spring,NRG,Palafox
+2024,Spring,NRG,FBI
+2024,Spring,NRG,Huhi
+2024,Spring,100 Thieves,Sniper
+2024,Spring,100 Thieves,River
+2024,Spring,100 Thieves,Quid
+2024,Spring,100 Thieves,Meech
+2024,Spring,100 Thieves,Eyla
+2024,Spring,Cloud9,Fudge
+2024,Spring,Cloud9,Blaber
+2024,Spring,Cloud9,Jojopyun
+2024,Spring,Cloud9,Berserker
+2024,Spring,Cloud9,Vulcan
+2024,Spring,Dignitas,Rich
+2024,Spring,Dignitas,Exyu
+2024,Spring,Dignitas,Dove
+2024,Spring,Dignitas,Tomo
+2024,Spring,Dignitas,Isles
+2024,Spring,Shopify,FakeGod
+2024,Spring,Shopify,Bugi
+2024,Spring,Shopify,Insanity
+2024,Spring,Shopify,Bvoy
+2024,Spring,Shopify,Zeyzal
+2024,Spring,Shopify,WildTurtle
+2024,Spring,Immortals,Castle
+2024,Spring,Immortals,Armao
+2024,Spring,Immortals,Mask
+2024,Spring,Immortals,Tactical
+2024,Spring,Immortals,Olleh
+2023,Summer,Cloud9,Fudge
+2023,Summer,Cloud9,Blaber
+2023,Summer,Cloud9,Emenes
+2023,Summer,Cloud9,Berserker
+2023,Summer,Cloud9,Zven
+2023,Summer,NRG,Dhokla
+2023,Summer,NRG,Contractz
+2023,Summer,NRG,Palafox
+2023,Summer,NRG,FBI
+2023,Summer,NRG,Ignar
+2023,Summer,Team Liquid,Summit
+2023,Summer,Team Liquid,Pyosik
+2023,Summer,Team Liquid,Haeri
+2023,Summer,Team Liquid,APA
+2023,Summer,Team Liquid,Yeon
+2023,Summer,Team Liquid,CoreJJ
+2023,Summer,Golden Guardians,Licorice
+2023,Summer,Golden Guardians,River
+2023,Summer,Golden Guardians,Gori
+2023,Summer,Golden Guardians,Stixxay
+2023,Summer,Golden Guardians,Huhi
+2023,Summer,TSM,Hauntzer
+2023,Summer,TSM,Bugi
+2023,Summer,TSM,Ruby
+2023,Summer,TSM,Insanity
+2023,Summer,TSM,WildTurtle
+2023,Summer,TSM,Chime
+2023,Summer,Dignitas,Rich
+2023,Summer,Dignitas,Santorin
+2023,Summer,Dignitas,Jensen
+2023,Summer,Dignitas,Tomo
+2023,Summer,Dignitas,Poome
+2023,Summer,Dignitas,Diamond
+2023,Summer,Evil Geniuses,Revenge
+2023,Summer,Evil Geniuses,Sheiden
+2023,Summer,Evil Geniuses,Jojopyun
+2023,Summer,Evil Geniuses,Unf0rgiven
+2023,Summer,Evil Geniuses,Eyla
+2023,Summer,Evil Geniuses,Armao
+2023,Summer,100 Thieves,Ssumday
+2023,Summer,100 Thieves,Closer
+2023,Summer,100 Thieves,Quid
+2023,Summer,100 Thieves,Nukeduck
+2023,Summer,100 Thieves,Doublelift
+2023,Summer,100 Thieves,Busio
+2023,Summer,Flyquest,Impact
+2023,Summer,Flyquest,Spica
+2023,Summer,Flyquest,Vicla
+2023,Summer,Flyquest,Prince
+2023,Summer,Flyquest,Vulcan
+2023,Summer,Flyquest,Spirax
+2023,Summer,Immortals,Solo
+2023,Summer,Immortals,Kenvi
+2023,Summer,Immortals,Bolulu
+2023,Summer,Immortals,Tactical
+2023,Summer,Immortals,Treatz
+2023,Spring,Cloud9,Fudge
+2023,Spring,Cloud9,Blaber
+2023,Spring,Cloud9,Diplex
+2023,Spring,Cloud9,Emenes
+2023,Spring,Cloud9,Berserker
+2023,Spring,Cloud9,Zven
+2023,Spring,Golden Guardians,Licorice
+2023,Spring,Golden Guardians,River
+2023,Spring,Golden Guardians,Gori
+2023,Spring,Golden Guardians,Young
+2023,Spring,Golden Guardians,Stixxay
+2023,Spring,Golden Guardians,Huhi
+2023,Spring,Evil Geniuses,Ssumday
+2023,Spring,Evil Geniuses,Inspired
+2023,Spring,Evil Geniuses,Jojopyun
+2023,Spring,Evil Geniuses,Ryoma
+2023,Spring,Evil Geniuses,FBI
+2023,Spring,Evil Geniuses,Vulcan
+2023,Spring,Flyquest,Impact
+2023,Spring,Flyquest,Spica
+2023,Spring,Flyquest,Vicla
+2023,Spring,Flyquest,Prince
+2023,Spring,Flyquest,Winsome
+2023,Spring,Flyquest,Eyla
+2023,Spring,100 Thieves,Tenacity
+2023,Spring,100 Thieves,Closer
+2023,Spring,100 Thieves,Bjergsen
+2023,Spring,100 Thieves,Doublelift
+2023,Spring,100 Thieves,Busio
+2023,Spring,CLG,Dhokla
+2023,Spring,CLG,Contractz
+2023,Spring,CLG,Palafox
+2023,Spring,CLG,Luger
+2023,Spring,CLG,Poome
+2023,Spring,Team Liquid,Summit
+2023,Spring,Team Liquid,Pyosik
+2023,Spring,Team Liquid,Haeri
+2023,Spring,Team Liquid,Yeon
+2023,Spring,Team Liquid,CoreJJ
+2023,Spring,TSM,Hauntzer
+2023,Spring,TSM,Solo
+2023,Spring,TSM,Bugi
+2023,Spring,TSM,Maple
+2023,Spring,TSM,Neo
+2023,Spring,TSM,WildTurtle
+2023,Spring,TSM,Chime
+2023,Spring,Immortals,Revenge
+2023,Spring,Immortals,Kenvi
+2023,Spring,Immortals,Bolulu
+2023,Spring,Immortals,Ablazeolive
+2023,Spring,Immortals,Tactical
+2023,Spring,Immortals,Fleshy
+2023,Spring,Dignitas,Armut
+2023,Spring,Dignitas,Santorin
+2023,Spring,Dignitas,Jensen
+2023,Spring,Dignitas,Tomo
+2023,Spring,Dignitas,Spawn
+2023,Spring,Dignitas,Ignar
+2023,Spring,Dignitas,Biofrost
+2022,Summer,Cloud9,Fudge
+2022,Summer,Cloud9,Blaber
+2022,Summer,Cloud9,Jensen
+2022,Summer,Cloud9,Berserker
+2022,Summer,Cloud9,K1ng
+2022,Summer,Cloud9,Destiny
+2022,Summer,Cloud9,Zven
+2022,Summer,Team Liquid,Bwipo
+2022,Summer,Team Liquid,Santorin
+2022,Summer,Team Liquid,Bjergsen
+2022,Summer,Team Liquid,Hans Sama
+2022,Summer,Team Liquid,CoreJJ
+2022,Summer,TSM,Solo
+2022,Summer,TSM,Huni
+2022,Summer,TSM,Soul
+2022,Summer,TSM,Spica
+2022,Summer,TSM,Maple
+2022,Summer,TSM,Tactical
+2022,Summer,TSM,Mia
+2022,Summer,TSM,Chime
+2022,Summer,TSM,Instinct
+2022,Summer,Evil Geniuses,Impact
+2022,Summer,Evil Geniuses,Inspired
+2022,Summer,Evil Geniuses,Jojopyun
+2022,Summer,Evil Geniuses,Kaori
+2022,Summer,Evil Geniuses,Vulcan
+2022,Summer,Evil Geniuses,Danny
+2022,Summer,CLG,Dhokla
+2022,Summer,CLG,Contractz
+2022,Summer,CLG,Palafox
+2022,Summer,CLG,Luger
+2022,Summer,CLG,Poome
+2022,Summer,100 Thieves,Ssumday
+2022,Summer,100 Thieves,Closer
+2022,Summer,100 Thieves,Abbedagge
+2022,Summer,100 Thieves,FBI
+2022,Summer,100 Thieves,Huhi
+2022,Summer,Golden Guardians,Licorice
+2022,Summer,Golden Guardians,River
+2022,Summer,Golden Guardians,Pridestalkr
+2022,Summer,Golden Guardians,Ablazeolive
+2022,Summer,Golden Guardians,Stixxay
+2022,Summer,Golden Guardians,Olleh
+2022,Summer,Golden Guardians,Lider
+2022,Summer,Golden Guardians,Prismal
+2022,Summer,Flyquest,Philip
+2022,Summer,Flyquest,Josedeodo
+2022,Summer,Flyquest,Toucouille
+2022,Summer,Flyquest,Johnsun
+2022,Summer,Flyquest,Aphromoo
+2022,Summer,Immortals,Revenge
+2022,Summer,Immortals,Kenvi
+2022,Summer,Immortals,PowerOfEvil
+2022,Summer,Immortals,Lost
+2022,Summer,Immortals,Ignar
+2022,Summer,Dignitas,Hoon
+2022,Summer,Dignitas,Exyu
+2022,Summer,Dignitas,Blue
+2022,Summer,Dignitas,Spawn
+2022,Summer,Dignitas,Biofrost
+2022,Summer,Dignitas,River
+2022,Summer,Dignitas,Gamsu
+2022,Summer,Dignitas,Neo
+2022,Spring,Evil Geniuses,Impact
+2022,Spring,Evil Geniuses,Inspired
+2022,Spring,Evil Geniuses,Jojopyun
+2022,Spring,Evil Geniuses,Vulcan
+2022,Spring,Evil Geniuses,Danny
+2022,Spring,100 Thieves,Ssumday
+2022,Spring,100 Thieves,Closer
+2022,Spring,100 Thieves,Abbedagge
+2022,Spring,100 Thieves,FBI
+2022,Spring,100 Thieves,Huhi
+2022,Spring,Team Liquid,Bwipo
+2022,Spring,Team Liquid,Santorin
+2022,Spring,Team Liquid,Bjergsen
+2022,Spring,Team Liquid,Hans Sama
+2022,Spring,Team Liquid,CoreJJ
+2022,Spring,Team Liquid,Eyla
+2022,Spring,Cloud9,Summit
+2022,Spring,Cloud9,Blaber
+2022,Spring,Cloud9,Fudge
+2022,Spring,Cloud9,Berserker
+2022,Spring,Cloud9,Isles
+2022,Spring,Cloud9,Winsome
+2022,Spring,Flyquest,Kumo
+2022,Spring,Flyquest,Josedeodo
+2022,Spring,Flyquest,Toucouille
+2022,Spring,Flyquest,Johnsun
+2022,Spring,Flyquest,Aphromoo
+2022,Spring,Golden Guardians,Licorice
+2022,Spring,Golden Guardians,Pridestalkr
+2022,Spring,Golden Guardians,Ablazeolive
+2022,Spring,Golden Guardians,Lost
+2022,Spring,Golden Guardians,Olleh
+2022,Spring,Dignitas,FakeGod
+2022,Spring,Dignitas,River
+2022,Spring,Dignitas,Blue
+2022,Spring,Dignitas,Neo
+2022,Spring,Dignitas,Biofrost
+2022,Spring,CLG,Dhokla
+2022,Spring,CLG,RoseThorn
+2022,Spring,CLG,Triple
+2022,Spring,CLG,Prismal
+2022,Spring,CLG,Breezy
+2022,Spring,CLG,Jenkins
+2022,Spring,CLG,Contractz
+2022,Spring,CLG,Palafox
+2022,Spring,CLG,Luger
+2022,Spring,CLG,Poome
+2022,Spring,TSM,Huni
+2022,Spring,TSM,Spica
+2022,Spring,TSM,Takeover
+2022,Spring,TSM,Tactical
+2022,Spring,TSM,Shenyi
+2022,Spring,TSM,Keaiduo
+2022,Spring,TSM,Yursan
+2022,Spring,Immortals,Revenge
+2022,Spring,Immortals,Chad
+2022,Spring,Immortals,PowerOfEvil
+2022,Spring,Immortals,Arrow
+2022,Spring,Immortals,Destiny
+2022,Spring,Immortals,Xerxe
+2022,Spring,Immortals,WildTurtle
+2022,Spring,Immortals,Joey
+2022,Winter,Team Liquid,Bwipo
+2022,Winter,Team Liquid,Santorin
+2022,Winter,Team Liquid,Bjergsen
+2022,Winter,Team Liquid,Hans Sama
+2022,Winter,Team Liquid,Eyla
+2022,Winter,Team Liquid,Bradley
+2022,Winter,Team Liquid,Yeon
+2022,Winter,Team Liquid,CoreJJ
+2022,Winter,Evil Geniuses,Impact
+2022,Winter,Evil Geniuses,Inspired
+2022,Winter,Evil Geniuses,Jojopyun
+2022,Winter,Evil Geniuses,Vulcan
+2022,Winter,Evil Geniuses,Danny
+2022,Winter,Cloud9,Darshan
+2022,Winter,Cloud9,Blaber
+2022,Winter,Cloud9,Fudge
+2022,Winter,Cloud9,Zven
+2022,Winter,Cloud9,Isles
+2022,Winter,100 Thieves,Ssumday
+2022,Winter,100 Thieves,Closer
+2022,Winter,100 Thieves,Abbedagge
+2022,Winter,100 Thieves,FBI
+2022,Winter,100 Thieves,Huhi
+2022,Winter,100 Thieves,Tenacity
+2022,Winter,CLG,Jenkins
+2022,Winter,CLG,Contractz
+2022,Winter,CLG,Palafox
+2022,Winter,CLG,Luger
+2022,Winter,CLG,Poome
+2022,Winter,Dignitas,FakeGod
+2022,Winter,Dignitas,River
+2022,Winter,Dignitas,Blue
+2022,Winter,Dignitas,Neo
+2022,Winter,Dignitas,Biofrost
+2022,Winter,Dignitas,Exyu
+2022,Winter,Flyquest,Kumo
+2022,Winter,Flyquest,Josedeodo
+2022,Winter,Flyquest,Toucouille
+2022,Winter,Flyquest,Johnsun
+2022,Winter,Flyquest,Aphromoo
+2022,Winter,TSM,V1per
+2022,Winter,TSM,Hyper
+2022,Winter,TSM,Takeover
+2022,Winter,TSM,Instinct
+2022,Winter,TSM,Yursan
+2022,Winter,Golden Guardians,Tony Top
+2022,Winter,Golden Guardians,Iconic
+2022,Winter,Golden Guardians,Ryoma
+2022,Winter,Golden Guardians,Stixxay
+2022,Winter,Golden Guardians,Chime
+2022,Winter,Immortals,Revenge
+2022,Winter,Immortals,Xerxe
+2022,Winter,Immortals,PowerOfEvil
+2022,Winter,Immortals,WildTurtle
+2022,Winter,Immortals,Destiny
